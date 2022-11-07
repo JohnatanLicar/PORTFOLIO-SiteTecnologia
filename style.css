@@ -2,7 +2,8 @@ body{
     background-image: url("imagens/fundo.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin: none;
+    margin: 0%;
+    background-size: cover;
 }
 header{
     color: white;
